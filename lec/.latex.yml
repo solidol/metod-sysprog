@@ -1,0 +1,2 @@
+root_file: all.tex
+compiler: pdflatex
